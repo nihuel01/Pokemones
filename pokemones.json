@@ -22,7 +22,7 @@
   ],
 "Ataques":
   [
-    {"Id":"1", "Nombre":"Llamarada", "Tipo":"Fuego", "Daño":"300"},,
+    {"Id":"1", "Nombre":"Llamarada", "Tipo":"Fuego", "Daño":"300"},
     {"Id":"2", "Nombre":"Patada doble", "Tipo":"Neutral", "Daño":"100"},
     {"Id":"3", "Nombre":"Ataque rapido", "Tipo":"Neutral", "Daño":"100"},
     {"Id":"4", "Nombre":"Impactrueno", "Tipo":"Electrico", "Daño":"300"},
