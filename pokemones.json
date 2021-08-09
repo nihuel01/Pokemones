@@ -18,9 +18,8 @@
     [
       { "Id":"5"} , { "Id" : "6"}
     ]
-  },
+  }
   ],
-
 "Ataques":
   [
     {"Id":"1", "Nombre":"Llamarada", "Tipo":"Fuego", "Daño":"300"},,
@@ -28,6 +27,6 @@
     {"Id":"3", "Nombre":"Ataque rapido", "Tipo":"Neutral", "Daño":"100"},
     {"Id":"4", "Nombre":"Impactrueno", "Tipo":"Electrico", "Daño":"300"},
     {"Id":"5", "Nombre":"Burbuja", "Tipo":"Agua", "Daño":"300"},
-    {"Id":"6", "Nombre":"Placaje", "Tipo":"Neutral", "Daño":"100"},
+    {"Id":"6", "Nombre":"Placaje", "Tipo":"Neutral", "Daño":"100"}
   ]
 }
