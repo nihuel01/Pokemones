@@ -1,19 +1,19 @@
 {
 "Pokemones":
   [
-  {"Id":"1", "Nombre":"Charmander", "Tipo":"Fuego", "Vida":"2100",
+  {"Id":"1", "Nombre":"Charmander", "Tipo":"Fuego", "Vida":"2100", "Debilidades":"Agua/Tierra/Roca","Img":"charmander.png",
     "Ataques" : 
     [
       { "Id":"1"} , { "Id" : "2"}
     ]
   },
-  {"Id":"2", "Nombre":"Pikachu", "Tipo":"Eléctrico", "Vida":"2000",
+  {"Id":"2", "Nombre":"Pikachu", "Tipo":"Eléctrico", "Vida":"2000", "Debilidades":"Tierra","Img":"pikachu.png",
     "Ataques" : 
     [
       { "Id":"3"} , { "Id" : "4"}
     ]
   },
-  {"Id":"3", "Nombre":"Squirtle", "Tipo":"Agua", "Vida":"2050",
+  {"Id":"3", "Nombre":"Squirtle", "Tipo":"Agua", "Vida":"2050", "Debilidades":"Planta/Electrico","Img":"squirtle.png",
     "Ataques" : 
     [
       { "Id":"5"} , { "Id" : "6"}
